@@ -1,0 +1,89 @@
+{
+  "type" : "struct",
+  "fields" : [ {
+    "name" : "Construction",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Borough",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Age",
+    "type" : "integer",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Furnace",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Shade",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Occupancy",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "Distribution",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "BigWindows",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "HighCeiling",
+    "type" : "string",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "BaseEUI",
+    "type" : "integer",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjS",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjB",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjC",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjSh",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjD",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjWC",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  }, {
+    "name" : "AdjEUI",
+    "type" : "decimal(31,6)",
+    "nullable" : true,
+    "metadata" : { }
+  } ]
+}
